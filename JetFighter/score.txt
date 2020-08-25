@@ -1,0 +1,20 @@
+didem 20 
+
+didem 40 
+
+null 0 
+
+MD 40 
+
+null 40 
+
+null 40 
+
+null 40 
+
+null 40 
+
+A 20 
+
+null 40 
+
